@@ -180,9 +180,9 @@ a.social:hover {
   text-align: center;
 }
 
-#school {
-  margin-top: -180px;
-  }
+.school-p {
+  text-align: right;
+ } 
 
 .jmu{
   width: 150px;
